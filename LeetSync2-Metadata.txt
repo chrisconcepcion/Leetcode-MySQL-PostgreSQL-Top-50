@@ -17,3 +17,4 @@
 1075-project-employees-i|Easy|1733374800000
 1211-queries-quality-and-percentage|Easy|1733374800000
 1633-percentage-of-users-attended-a-contest|Easy|1733374800000
+1174-immediate-food-delivery-ii|Medium|1733374800000
