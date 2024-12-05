@@ -14,3 +14,4 @@
 1934-confirmation-rate|Medium|1733374800000
 620-not-boring-movies|Easy|1733374800000
 1251-average-selling-price|Easy|1733374800000
+1075-project-employees-i|Easy|1733374800000
