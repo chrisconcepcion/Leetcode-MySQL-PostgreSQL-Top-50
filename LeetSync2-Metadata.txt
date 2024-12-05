@@ -9,3 +9,4 @@
 197-rising-temperature|Easy|1733374800000
 1661-average-time-of-process-per-machine|Easy|1733374800000
 577-employee-bonus|Easy|1733374800000
+1280-students-and-examinations|Easy|1733374800000
