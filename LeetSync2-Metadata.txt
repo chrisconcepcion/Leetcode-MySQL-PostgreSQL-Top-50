@@ -46,3 +46,4 @@
 196-delete-duplicate-emails|Easy|1733374800000
 176-second-highest-salary|Medium|1733374800000
 1484-group-sold-products-by-the-date|Easy|1733374800000
+1327-list-the-products-ordered-in-a-period|Easy|1733374800000
