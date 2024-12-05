@@ -43,3 +43,4 @@
 185-department-top-three-salaries|Hard|1733374800000
 1667-fix-names-in-a-table|Easy|1733374800000
 1527-patients-with-a-condition|Easy|1733374800000
+196-delete-duplicate-emails|Easy|1733374800000
