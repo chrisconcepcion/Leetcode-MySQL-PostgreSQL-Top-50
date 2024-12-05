@@ -28,3 +28,4 @@
 619-biggest-single-number|Easy|1733374800000
 1045-customers-who-bought-all-products|Medium|1733374800000
 1731-the-number-of-employees-which-report-to-each-employee|Easy|1733374800000
+1789-primary-department-for-each-employee|Easy|1733374800000
