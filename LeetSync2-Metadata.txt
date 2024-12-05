@@ -30,3 +30,4 @@
 1731-the-number-of-employees-which-report-to-each-employee|Easy|1733374800000
 1789-primary-department-for-each-employee|Easy|1733374800000
 610-triangle-judgement|Easy|1733374800000
+180-consecutive-numbers|Medium|1733374800000
