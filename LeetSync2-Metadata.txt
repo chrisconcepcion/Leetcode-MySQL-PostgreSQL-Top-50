@@ -11,3 +11,4 @@
 577-employee-bonus|Easy|1733374800000
 1280-students-and-examinations|Easy|1733374800000
 570-managers-with-at-least-5-direct-reports|Medium|1733374800000
+1934-confirmation-rate|Medium|1733374800000
