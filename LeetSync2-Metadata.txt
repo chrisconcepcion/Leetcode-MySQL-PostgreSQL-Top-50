@@ -21,3 +21,4 @@
 550-game-play-analysis-iv|Medium|1733374800000
 1193-monthly-transactions-i|Medium|1733374800000
 2356-number-of-unique-subjects-taught-by-each-teacher|Easy|1733374800000
+1141-user-activity-for-the-past-30-days-i|Easy|1733374800000
