@@ -32,3 +32,4 @@
 610-triangle-judgement|Easy|1733374800000
 180-consecutive-numbers|Medium|1733374800000
 1164-product-price-at-a-given-date|Medium|1733374800000
+1204-last-person-to-fit-in-the-bus|Medium|1733374800000
