@@ -41,3 +41,4 @@
 602-friend-requests-ii-who-has-the-most-friends|Medium|1733374800000
 585-investments-in-2016|Medium|1733374800000
 185-department-top-three-salaries|Hard|1733374800000
+1667-fix-names-in-a-table|Easy|1733374800000
