@@ -37,3 +37,4 @@
 1978-employees-whose-manager-left-the-company|Easy|1733374800000
 626-exchange-seats|Medium|1733374800000
 1341-movie-rating|Medium|1733374800000
+1321-restaurant-growth|Medium|1733374800000
