@@ -45,3 +45,4 @@
 1527-patients-with-a-condition|Easy|1733374800000
 196-delete-duplicate-emails|Easy|1733374800000
 176-second-highest-salary|Medium|1733374800000
+1484-group-sold-products-by-the-date|Easy|1733374800000
