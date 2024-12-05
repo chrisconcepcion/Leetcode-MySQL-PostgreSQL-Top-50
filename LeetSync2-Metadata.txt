@@ -10,3 +10,4 @@
 1661-average-time-of-process-per-machine|Easy|1733374800000
 577-employee-bonus|Easy|1733374800000
 1280-students-and-examinations|Easy|1733374800000
+570-managers-with-at-least-5-direct-reports|Medium|1733374800000
