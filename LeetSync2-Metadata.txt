@@ -26,3 +26,4 @@
 596-classes-more-than-5-students|Easy|1733374800000
 1729-find-followers-count|Easy|1733374800000
 619-biggest-single-number|Easy|1733374800000
+1045-customers-who-bought-all-products|Medium|1733374800000
