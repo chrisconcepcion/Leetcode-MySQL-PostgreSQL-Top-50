@@ -4,3 +4,4 @@
 1148-article-views-i|Easy|1733374800000
 1683-invalid-tweets|Easy|1733374800000
 1378-replace-employee-id-with-the-unique-identifier|Easy|1733374800000
+1068-product-sales-analysis-i|Easy|1733374800000
