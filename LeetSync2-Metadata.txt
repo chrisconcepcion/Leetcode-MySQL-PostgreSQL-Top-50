@@ -15,3 +15,4 @@
 620-not-boring-movies|Easy|1733374800000
 1251-average-selling-price|Easy|1733374800000
 1075-project-employees-i|Easy|1733374800000
+1211-queries-quality-and-percentage|Easy|1733374800000
