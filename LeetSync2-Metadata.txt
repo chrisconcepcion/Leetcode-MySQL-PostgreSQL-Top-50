@@ -23,3 +23,4 @@
 2356-number-of-unique-subjects-taught-by-each-teacher|Easy|1733374800000
 1141-user-activity-for-the-past-30-days-i|Easy|1733374800000
 1070-product-sales-analysis-iii|Medium|1733374800000
+596-classes-more-than-5-students|Easy|1733374800000
