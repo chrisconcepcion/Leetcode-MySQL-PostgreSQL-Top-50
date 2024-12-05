@@ -13,3 +13,4 @@
 570-managers-with-at-least-5-direct-reports|Medium|1733374800000
 1934-confirmation-rate|Medium|1733374800000
 620-not-boring-movies|Easy|1733374800000
+1251-average-selling-price|Easy|1733374800000
