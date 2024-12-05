@@ -39,3 +39,4 @@
 1341-movie-rating|Medium|1733374800000
 1321-restaurant-growth|Medium|1733374800000
 602-friend-requests-ii-who-has-the-most-friends|Medium|1733374800000
+585-investments-in-2016|Medium|1733374800000
